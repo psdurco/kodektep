@@ -2,7 +2,7 @@
 
 > "Not everything that looks like a PDF is just a document."
 
-**KodeKTep** is a file encryption and stealth packaging tool, inspired by the onion-layer concept—but without revealing its true purpose at first glance. Created for those who value true privacy, digital disguise, and content security.
+**KodeKTep** is a file encryption and stealth packaging tool. Created for those who value true privacy, digital disguise, and content security.
 
 ---
 
@@ -59,7 +59,6 @@ At this stage, we're releasing only the **Windows executable** (`kodektep.exe`).
 
 - Without the `.keys` file, **decryption is mathematically infeasible**
 - Each operation generates **unique and random AES keys and IVs**
-- Layers are **compressed, encoded, and shuffled** through AES-256 in 3, 6, or 9 passes
 - The final file is **fully functional** (opens like a normal file) but secretly contains hidden data
 
 ---
