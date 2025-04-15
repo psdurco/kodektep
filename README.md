@@ -1,3 +1,5 @@
+![kodektep_logo](https://github.com/user-attachments/assets/863a7604-15a7-4d55-a38e-7b042f26cfa8)
+
 # 🧅 KodeKTep - Encryption
 
 > "Not everything that looks like a PDF is just a document."
