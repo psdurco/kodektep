@@ -1,7 +1,5 @@
 <img src="https://github.com/user-attachments/assets/863a7604-15a7-4d55-a38e-7b042f26cfa8" width="25%" />
 
-[Download the latest version (v1.0.1)](https://github.com/psdurco/kodektep/releases/latest)
-
 # 🧅 KodeKTep - Encryption
 
 > "Not everything that looks like a PDF is just a document."
@@ -23,11 +21,24 @@ With this, you can hide:
 - A secret document inside another PDF
 - Or even a photo inside another photo—keeping the host file fully operational
 
+KodeKTep Particularities:
+KodeKTep is not just an encryption tool — it's an oracle of silent chaos.
+
+Its layers go beyond traditional protection, offering mechanisms that confuse, delay, and disorient reverse engineering attempts. Some of its unique characteristics include:
+
+- Multi-layer dynamic encryption (cryptographic matryoshka)
+- Embedded fake digital signatures (real file headers)
+- Intelligent honeypots with randomized encrypted data
+- Preservation of the original host file’s date and timestamp
+
+What appears to be, often isn’t.
+Silence is a language.
+
 ---
 
 ## 📦 What does this repository contain?
 
-At this stage, we're releasing only the **Windows executable** (`kodektep.exe`). Future versions for Linux, macOS, and CLI will be added soon.
+At this stage, we're releasing only the **Windows executable GUI and CLI** (`kodektep.exe, kodektep-cli.exe`). Future versions for Linux will be added soon.
 
 ---
 
