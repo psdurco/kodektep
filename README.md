@@ -1,3 +1,7 @@
+<img src="https://github.com/user-attachments/assets/863a7604-15a7-4d55-a38e-7b042f26cfa8" width="25%" />
+
+[Download the latest version (v1.0.1)](https://github.com/psdurco/kodektep/releases/latest)
+
 # 🧅 KodeKTep - Encryption
 
 > "Not everything that looks like a PDF is just a document."
